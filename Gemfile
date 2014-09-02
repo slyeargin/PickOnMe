@@ -53,3 +53,4 @@ end
 
 gem 'haml'
 gem 'html2haml'
+gem 'simple_form'
